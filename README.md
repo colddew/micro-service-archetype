@@ -1,2 +1,2 @@
-# micro-service-archetype
+# brief
 micro service archetype
